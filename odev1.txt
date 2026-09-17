@@ -3,3 +3,4 @@ Tunahan Balcı
 Git branch (dal), bir projenin ana geliştirme hattından sapmadan, farklı özellikleri, hata düzeltmelerini veya deneyleri ana kod tabanından bağımsız bir şekilde geliştirmeyi sağlayan bir işaretçidir.
 Yeni branch oluşturmak için: git branch <dal_adi>
 Mevcut branch'leri listelemek için:git branch
+main branchte 6. satır yazıldı.
