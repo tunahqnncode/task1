@@ -4,3 +4,4 @@ Git branch (dal), bir projenin ana geliştirme hattından sapmadan, farklı öze
 Yeni branch oluşturmak için: git branch <dal_adi>
 Mevcut branch'leri listelemek için:git branch
 main branchte 6. satır yazıldı.
+twobranchte altıncı satır yazıldı
